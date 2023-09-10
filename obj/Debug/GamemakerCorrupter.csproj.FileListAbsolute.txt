@@ -1,0 +1,15 @@
+C:\Users\rando\OneDrive\Documents\GS2ML_Projects\GameMakerCorrupter\GS2ML_MOD_NAME\GamemakerCorrupter.deps.json
+C:\Users\rando\OneDrive\Documents\GS2ML_Projects\GameMakerCorrupter\GS2ML_MOD_NAME\GamemakerCorrupter.dll
+C:\Users\rando\OneDrive\Documents\GS2ML_Projects\GameMakerCorrupter\GS2ML_MOD_NAME\GamemakerCorrupter.pdb
+C:\Users\rando\OneDrive\Documents\GS2ML_Projects\GameMakerCorrupter\obj\Debug\GamemakerCorrupter.csproj.AssemblyReference.cache
+C:\Users\rando\OneDrive\Documents\GS2ML_Projects\GameMakerCorrupter\obj\Debug\GamemakerCorrupter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rando\OneDrive\Documents\GS2ML_Projects\GameMakerCorrupter\obj\Debug\GamemakerCorrupter.AssemblyInfoInputs.cache
+C:\Users\rando\OneDrive\Documents\GS2ML_Projects\GameMakerCorrupter\obj\Debug\GamemakerCorrupter.AssemblyInfo.cs
+C:\Users\rando\OneDrive\Documents\GS2ML_Projects\GameMakerCorrupter\obj\Debug\GamemakerCorrupter.csproj.CoreCompileInputs.cache
+C:\Users\rando\OneDrive\Documents\GS2ML_Projects\GameMakerCorrupter\obj\Debug\GamemakerCorrupter.dll
+C:\Users\rando\OneDrive\Documents\GS2ML_Projects\GameMakerCorrupter\obj\Debug\refint\GamemakerCorrupter.dll
+C:\Users\rando\OneDrive\Documents\GS2ML_Projects\GameMakerCorrupter\obj\Debug\GamemakerCorrupter.pdb
+C:\Users\rando\OneDrive\Documents\GS2ML_Projects\GameMakerCorrupter\obj\Debug\ref\GamemakerCorrupter.dll
+C:\Users\rando\OneDrive\Documents\GS2ML_Projects\GameMakerCorrupter\GamemakerCorrupter\GamemakerCorrupter.deps.json
+C:\Users\rando\OneDrive\Documents\GS2ML_Projects\GameMakerCorrupter\GamemakerCorrupter\GamemakerCorrupter.dll
+C:\Users\rando\OneDrive\Documents\GS2ML_Projects\GameMakerCorrupter\GamemakerCorrupter\GamemakerCorrupter.pdb
