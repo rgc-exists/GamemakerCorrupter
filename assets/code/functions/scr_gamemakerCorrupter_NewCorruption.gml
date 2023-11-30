@@ -79,42 +79,46 @@ if(corruption_type <= 0){
         }
     }
 } else if(corruption_type > 70 && corruption_type <= 73){
-    //Change random string in global variable (from list of preset strings)
-    var instance_varNames = variable_instance_get_names(global)
-    var varName = ""
-    if(array_length(instance_varNames) > 0){
-        var findVarThatIsStringTries = 0
-        var foundVarWithString = false 
-        while(!foundVarWithString && findVarThatIsStringTries < 20){
-            findVarThatIsStringTries++
-            varName = instance_varNames[irandom(array_length(instance_varNames) - 1)]
-            if(is_string(variable_global_get(varName))){
-                foundVarWithString = true
+    if(global.change_global_strings){
+        //Change random string in global variable (from list of preset strings)
+        var instance_varNames = variable_instance_get_names(global)
+        var varName = ""
+        if(array_length(instance_varNames) > 0){
+            var findVarThatIsStringTries = 0
+            var foundVarWithString = false 
+            while(!foundVarWithString && findVarThatIsStringTries < 20){
+                findVarThatIsStringTries++
+                varName = instance_varNames[irandom(array_length(instance_varNames) - 1)]
+                if(is_string(variable_global_get(varName))){
+                    foundVarWithString = true
+                }
             }
         }
-    }
-    if(foundVarWithString){
-        hasFoundInstanceWithString = true
-        variable_global_set(varName, global.funny_corruption_strings[irandom(array_length(global.funny_corruption_strings) - 1)])
+        if(foundVarWithString){
+            hasFoundInstanceWithString = true
+            variable_global_set(varName, global.funny_corruption_strings[irandom(array_length(global.funny_corruption_strings) - 1)])
+        }
     }
 } else if(corruption_type > 73 && corruption_type <= 75){
-    //Change random string in global variable (from list of preset strings)
-    var instance_varNames = variable_instance_get_names(global)
-    var varName = ""
-    if(array_length(instance_varNames) > 0){
-        var findVarThatIsStringTries = 0
-        var foundVarWithString = false 
-        while(!foundVarWithString && findVarThatIsStringTries < 20){
-            findVarThatIsStringTries++
-            varName = instance_varNames[irandom(array_length(instance_varNames) - 1)]
-            if(is_string(variable_global_get(varName))){
-                foundVarWithString = true
+    if(global.change_global_strings){
+        //Change random string in global variable (from list of preset strings)
+        var instance_varNames = variable_instance_get_names(global)
+        var varName = ""
+        if(array_length(instance_varNames) > 0){
+            var findVarThatIsStringTries = 0
+            var foundVarWithString = false 
+            while(!foundVarWithString && findVarThatIsStringTries < 20){
+                findVarThatIsStringTries++
+                varName = instance_varNames[irandom(array_length(instance_varNames) - 1)]
+                if(is_string(variable_global_get(varName))){
+                    foundVarWithString = true
+                }
             }
         }
-    }
-    if(foundVarWithString){
-        hasFoundInstanceWithString = true
-        variable_global_set(varName, gml_Script_scr_gamemakerCorrupter_RandomString())
+        if(foundVarWithString){
+            hasFoundInstanceWithString = true
+            variable_global_set(varName, gml_Script_scr_gamemakerCorrupter_RandomString())
+        }
     }
 } else if(corruption_type > 75 && corruption_type <= 85){
     //Change instance image_blend

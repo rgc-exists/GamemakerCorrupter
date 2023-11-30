@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rando\\OneDrive\\Documents\\GS2ML_Projects\\GameMakerCorrupter\\GamemakerCorrupter.csproj": {}
+    "C:\\Users\\rando\\OneDrive\\Documents\\GS2ML_Projects\\GamemakerCorrupter\\GamemakerCorrupter.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rando\\OneDrive\\Documents\\GS2ML_Projects\\GameMakerCorrupter\\GamemakerCorrupter.csproj": {
+    "C:\\Users\\rando\\OneDrive\\Documents\\GS2ML_Projects\\GamemakerCorrupter\\GamemakerCorrupter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rando\\OneDrive\\Documents\\GS2ML_Projects\\GameMakerCorrupter\\GamemakerCorrupter.csproj",
+        "projectUniqueName": "C:\\Users\\rando\\OneDrive\\Documents\\GS2ML_Projects\\GamemakerCorrupter\\GamemakerCorrupter.csproj",
         "projectName": "GamemakerCorrupter",
-        "projectPath": "C:\\Users\\rando\\OneDrive\\Documents\\GS2ML_Projects\\GameMakerCorrupter\\GamemakerCorrupter.csproj",
+        "projectPath": "C:\\Users\\rando\\OneDrive\\Documents\\GS2ML_Projects\\GamemakerCorrupter\\GamemakerCorrupter.csproj",
         "packagesPath": "C:\\Users\\rando\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rando\\OneDrive\\Documents\\GS2ML_Projects\\GameMakerCorrupter\\obj\\",
+        "outputPath": "C:\\Users\\rando\\OneDrive\\Documents\\GS2ML_Projects\\GamemakerCorrupter\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
